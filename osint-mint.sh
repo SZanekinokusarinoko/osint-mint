@@ -1,7 +1,7 @@
-#!/usr/bin/sh
+#!/usr/bin/bash
 
 sudo apt update && apt upgrade
-sudo apt install git python3-venv python3-pip
+sudo apt install python3-venv python3-pip
 
 python3 -m venv ~/.env
 source ~/.env/bin/activate
