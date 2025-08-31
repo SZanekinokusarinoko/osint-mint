@@ -9,18 +9,18 @@ Simple shell script to easily make Linux Mint an effective and stable OSINT tool
 # What's this actually do?
 This script automatically installs a handfull of easy to use, essential, and completely free OSINT tools onto a default Linux Mint install. To be more precise, this script installs:
 
-`python3-venv` to run basically everything (See here.)
+`python3-venv` to run basically everything ([See here](https://forums.linuxmint.com/viewtopic.php?t=430142).)
 
 `python3-pip` to install 99% of the tools
 
-`ignorant` - Check if a phone number has been used on any major sites.
+[`ignorant`](https://github.com/megadose/ignorant)
 
-`blackbird` - Username and Email search
+[`blackbird`](https://github.com/p1ngul1n0/blackbird)
 
-`holehe` - Simple Email search
+[`holehe`](https://github.com/megadose/holehe)
 
-`sherlock` - Simple username search
+[`sherlock`](https://github.com/sherlock-project/sherlock)
 
-`xeuledoc` - find email from a Google Docs URL.
+[`xeuledoc`](https://github.com/Malfrats/xeuledoc)
 
-`ghunt` - Dig info on a gmail account (requires a Google account.)
+[`ghunt`](https://github.com/mxrch/GHunt)
