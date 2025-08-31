@@ -11,5 +11,6 @@ pipx ensurepath && pipx install ghunt
 
 git clone https://github.com/p1ngul1n0/blackbird.git
 cd blackbird
+python3 -m pip install -r requirements.txt
 
 echo "pip isn't allowed to run outside of a venv on mint for compatiblity/stablity reasons. Therefore, make sure to type 'source ~/.env/bin/activate' before running any programs!"
