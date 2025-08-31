@@ -2,7 +2,6 @@
 
 sudo apt update && apt upgrade
 sudo apt install git python3-venv python3-pip
-curl -fsSL https://pyenv.run | bash
 
 python -m pip install --upgrade pip
 pip3 install pipx xeuledoc ignorant holehe sherlock-project
